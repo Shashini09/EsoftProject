@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\bin\Debug\Skin Clinic- (Booking System).exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\bin\Debug\Skin Clinic- (Booking System).exe
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\bin\Debug\Skin Clinic- (Booking System).pdb
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin Clinic- (Booking System).csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin Clinic- (Booking System).csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin Clinic- (Booking System).exe
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin Clinic- (Booking System).pdb
+c:\users\admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Form2.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Form3.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Form4.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Form5.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Skin Clinic- (Booking System)\Skin Clinic- (Booking System)\obj\Debug\Skin_Clinic___Booking_System_.Form6.resources
